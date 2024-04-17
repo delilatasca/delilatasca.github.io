@@ -3,6 +3,24 @@
  *	URL: https://gettemplates.co
  */
 
+@font-face {
+  font-family: 'allison';
+  src: url('../font/allison.ttf') format('truetype');
+}
+
+h1.logo {
+  font-family: 'allison', 'Open Sans', sans-serif;
+  font-size: 8em;
+}
+
+h2.logo {
+  letter-spacing: .2rem;
+  font-size: 1rem;
+  border-bottom: 1px solid black;
+  padding-bottom: 0.4rem;
+  font-weight: bold;
+}
+
 img.map {
   max-width: 450px;
   margin-bottom: 100px;
