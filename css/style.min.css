@@ -2,6 +2,22 @@
  *	Resto by GetTemplates.co
  *	URL: https://gettemplates.co
  */
+
+img.map {
+  max-width: 450px;
+  margin-bottom: 100px;
+}
+
+img.foto {
+  max-width: 350px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.centered {
+  text-align: center;
+}
+
 html {
   overflow-x: hidden; }
 
